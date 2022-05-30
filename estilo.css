@@ -1,0 +1,62 @@
+html{
+    background-image: linear-gradient(rgba(138, 32, 32, 0.993),rgb(69, 224, 69));
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: green;
+    border: solid black 10px;
+}
+
+h2 {
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+h4{ 
+    font-size: large;
+    color: white;
+}
+
+p{
+    color: white;
+    background-color: red;
+    border-radius: 2%;
+}
+
+.B1{
+   display: inline;
+   width: 100px;
+   padding: 10px;
+}
+
+.B2{
+    display: inline;
+    width: 100px;
+    padding: 10px;
+}
+
+#Bandeira {
+    border: solid 10px yellow;
+    margin-left:  40px;
+    margin-right: 150px;
+}
+#Mapa{
+    border: solid 10px yellow;
+}
+
+#Cidade{
+    border: solid 10px yellow;
+    margin-left: 50px;    
+}
+
+.Distritos{
+     background-color: red;
+     margin-left: 50px;
+     width: 31%;            
+}
